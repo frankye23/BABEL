@@ -1,0 +1,22 @@
+{
+  "name": "hero",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.6",
+    "vue": "^3.0.4",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss7-compat": "^2.2.17",
+    "@vue/compiler-sfc": "^3.0.4",
+    "autoprefixer": "^9.8.8",
+    "naive-ui": "^2.19.9",
+    "postcss": "^7.0.39",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
+    "vite": "^1.0.0-rc.13"
+  }
+}
